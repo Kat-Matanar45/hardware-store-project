@@ -5,7 +5,7 @@ import path from 'path'
 import viteImagemin from 'vite-plugin-imagemin'
 
 export default defineConfig({
-  base: '/Kat-Matanar45/hardware-store-project',
+  base: '/hardware-store-project',
   plugins: [
     react(),
     tailwindcss(),
