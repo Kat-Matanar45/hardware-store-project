@@ -6,8 +6,6 @@ import { Link, useLoaderData } from "react-router-dom";
 const Home = (): ReactElement => {
     const categories: ICategories[] = useLoaderData();
 
-    console.log(categories);
-
     return (
         <div className="py-10">
             <h1 className="text-2xl font-semibold text-center mb-8 text-slate-900">Categories</h1>
