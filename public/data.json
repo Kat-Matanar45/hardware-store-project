@@ -1,10 +1,10 @@
 {
   "categories": [
-    { "id": "Electronics", "name": "Electronics", "img": "../src/assets/images/electronics.png" },
-    { "id": "Clothing", "name": "Clothing", "img": "../src/assets/images/clothing.png" },
-    { "id": "Books", "name": "Books", "img": "../src/assets/images/books.png" },
-    { "id": "Furniture", "name": "Furniture", "img": "../src/assets/images/furniture.png" },
-    { "id": "Outdoor", "name": "Outdoor", "img": "../src/assets/images/outdoor.png" }
+    { "id": "Electronics", "name": "Electronics", "img": "/images/electronics.png" },
+    { "id": "Clothing", "name": "Clothing", "img": "/images/clothing.png" },
+    { "id": "Books", "name": "Books", "img": "/images/books.png" },
+    { "id": "Furniture", "name": "Furniture", "img": "/images/furniture.png" },
+    { "id": "Outdoor", "name": "Outdoor", "img": "/images/outdoor.png" }
   ],
   "products": [
     {
@@ -12,140 +12,140 @@
       "categoryId": "Electronics",
       "name": "Laptop",
       "price": 1200,
-      "img": "../src/assets/images/laptop.png"
+      "img": "/images/laptop.png"
     },
     {
       "id": 2,
       "categoryId": "Electronics",
       "name": "Smartphone",
       "price": 800,
-      "img": "../src/assets/images/smartphone.png"
+      "img": "/images/smartphone.png"
     },
     {
       "id": 3,
       "categoryId": "Electronics",
       "name": "Headphones",
       "price": 150,
-      "img": "../src/assets/images/headphones.png"
+      "img": "/images/headphones.png"
     },
     {
       "id": 4,
       "categoryId": "Electronics",
       "name": "Monitor",
       "price": 300,
-      "img": "../src/assets/images/monitor.png"
+      "img": "/images/monitor.png"
     },
     {
       "id": 5,
       "categoryId": "Clothing",
       "name": "T-Shirt",
       "price": 20,
-      "img": "../src/assets/images/t-shirt.png"
+      "img": "/images/t-shirt.png"
     },
     {
       "id": 6,
       "categoryId": "Clothing",
       "name": "Jeans",
       "price": 50,
-      "img": "../src/assets/images/jeans.png"
+      "img": "/images/jeans.png"
     },
     {
       "id": 7,
       "categoryId": "Clothing",
       "name": "Jacket",
       "price": 100,
-      "img": "../src/assets/images/jacket.png"
+      "img": "/images/jacket.png"
     },
     {
       "id": 8,
       "categoryId": "Clothing",
       "name": "Sneakers",
       "price": 70,
-      "img": "../src/assets/images/sneakers.png"
+      "img": "/images/sneakers.png"
     },
     {
       "id": 9,
       "categoryId": "Books",
       "name": "Novel",
       "price": 15,
-      "img": "../src/assets/images/novel.png"
+      "img": "/images/novel.png"
     },
     {
       "id": 10,
       "categoryId": "Books",
       "name": "Textbook",
       "price": 40,
-      "img": "../src/assets/images/textbook.png"
+      "img": "/images/textbook.png"
     },
     {
       "id": 11,
       "categoryId": "Books",
       "name": "Magazine",
       "price": 10,
-      "img": "../src/assets/images/magazine.png"
+      "img": "/images/magazine.png"
     },
     {
       "id": 12,
       "categoryId": "Books",
       "name": "Comic Book",
       "price": 12,
-      "img": "../src/assets/images/comicBook.png"
+      "img": "/images/comicBook.png"
     },
     {
       "id": 13,
       "categoryId": "Furniture",
       "name": "Desk Chair",
       "price": 200,
-      "img": "../src/assets/images/deskChair.png"
+      "img": "/images/deskChair.png"
     },
     {
       "id": 14,
       "categoryId": "Furniture",
       "name": "Table",
       "price": 150,
-      "img": "../src/assets/images/table.png"
+      "img": "/images/table.png"
     },
     {
       "id": 15,
       "categoryId": "Furniture",
       "name": "Bookshelf",
       "price": 120,
-      "img": "../src/assets/images/bookshelf.png"
+      "img": "/images/bookshelf.png"
     },
     {
       "id": 16,
       "categoryId": "Furniture",
       "name": "Lamp",
       "price": 80,
-      "img": "../src/assets/images/lamp.png"
+      "img": "/images/lamp.png"
     },
     {
       "id": 17,
       "categoryId": "Outdoor",
       "name": "Bicycle",
       "price": 500,
-      "img": "../src/assets/images/bicycle.png"
+      "img": "/images/bicycle.png"
     },
     {
       "id": 18,
       "categoryId": "Outdoor",
       "name": "Scooter",
       "price": 300,
-      "img": "../src/assets/images/scooter.png"
+      "img": "/images/scooter.png"
     },
     {
       "id": 19,
       "categoryId": "Outdoor",
       "name": "Roller Skates",
       "price": 150,
-      "img": "../src/assets/images/rollerSkates.png"
+      "img": "/images/rollerSkates.png"
     },
     {
       "id": 20,
       "categoryId": "Outdoor",
       "name": "Skateboard",
       "price": 120,
-      "img": "../src/assets/images/skateboard.png"
+      "img": "/images/skateboard.png"
     }
   ]
 }

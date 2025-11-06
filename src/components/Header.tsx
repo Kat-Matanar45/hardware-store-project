@@ -2,7 +2,7 @@ import type { ReactElement } from "react";
 
 import NavLinkMenu from "../UI/NavLinkMenu";
 
-import logo from '@assets/images/logo.svg'
+import logo from '/logo.svg'
 
 const Header = (): ReactElement => {
   return (
